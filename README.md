@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nafanpe
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python and its about to end! iam studying in grade 11th.
+- 👀 I’m a computer programmer
 - 📫 How to reach me ... reach me through my email :- nafan.official@gmail.com
 
 <!---
