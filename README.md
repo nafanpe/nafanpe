@@ -13,7 +13,7 @@ I'm Nafan, a highly motivated Full Stack Developer focused on mastering React an
 - [Netflix-Clone-Anime](https://github.com/nafanpe/Netflix-Clone-Anime) - Please Use US VPN to load the website completely (⭐ 0) - JavaScript
 - [Ping-Client](https://github.com/nafanpe/Ping-Client) - A client for pinging servers (⭐ 0) - HTML
 - [ToDoList](https://github.com/nafanpe/ToDoList) - A React ToDo List Project (⭐ 0) - JavaScript
-- [hacker-prank](https://github.com/nafanpe/hacker-prank) - A fun prank tool (⭐ 0) - JavaScript
+- [Thintry-Web](https://github.com/nafanpe/Thintry-Web) - Web page designed for Thintry Startup. Unfinished (⭐ 0) - JavaScript
 
 ## 📊GitHub Stats:
 
