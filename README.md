@@ -1,6 +1,6 @@
 ## 👋 Hi there:
 
-I’m Nafan P E, a passionate Full Stack Development learner from Kerala, India. Currently diving into React and building exciting projects like a Netflix clone! Always curious and eager to learn new tools and technologies.
+I’m Nafan P E, a passionate Full Stack Development learner from Kerala, India. Currently diving into React and built exciting projects like a Netflix clone! Always curious and eager to learn new tools and technologies.
 
 ## 💫 About Me:
 
