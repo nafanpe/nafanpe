@@ -10,10 +10,11 @@ I'm Nafan, a highly motivated Full Stack Developer focused on mastering React an
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,git,github,vercel,js,py,java,cpp,c&perline=8)](https://skillicons.dev)
 
 ## 🏆Top Projects:
-- [Netflix-Clone-Anime](https://github.com/nafanpe/Netflix-Clone-Anime) - Please Use US VPN to load the website completely (⭐ 0) - JavaScript
+- [Netflix-Clone-Anime](https://github.com/nafanpe/Netflix-Clone-Anime) - Please Use US VPN to load the website completely (⭐ 0) - React
 - [Ping-Client](https://github.com/nafanpe/Ping-Client) - A client for pinging servers (⭐ 0) - HTML
-- [ToDoList](https://github.com/nafanpe/ToDoList) - A React ToDo List Project (⭐ 0) - JavaScript
-- [Thintry-Web](https://github.com/nafanpe/Thintry-Web) - Web page designed for Thintry Startup. Unfinished (⭐ 0) - JavaScript
+- [ToDoList](https://github.com/nafanpe/ToDoList) - A React ToDo List Project (⭐ 0) - React
+- [Thintry-Web](https://github.com/nafanpe/Thintry-Web) - Web page designed for Thintry Startup. Unfinished (⭐ 0) - React
+- [OvitaLab-Web](https://github.com/nafanpe/Ovita-Lab-Web) - Web page designed for OvitaLab Startup. Unfinished (⭐ 0) - React
 
 ## 📊GitHub Stats:
 
