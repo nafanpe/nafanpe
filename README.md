@@ -4,7 +4,7 @@ I’m Nafan P E, a passionate Full Stack Development learner from Kerala, India.
 
 ## 💫 About Me:
 
-I'm Nafan, a highly motivated Full Stack Developer focused on mastering React and advancing my skills in software development. I have experience building projects like a Netflix clone, a to-do list app, and an AI-powered content platform. Previously, I worked as a web designer at Thintry, where I contributed to intuitive UI/UX for AI-focused platforms. My expertise includes JavaScript, React, Python, and Git, with a strong foundation in problem-solving and state-level programming experience. I'm continuously expanding my knowledge in data structures, algorithms, and AI to build innovative and impactful solutions.
+I'm Nafan, a highly motivated Full Stack Developer focused on mastering React and advancing my skills in software development. I have experience building projects like a Netflix clone, a to-do list app, and an AI-powered content platform. Previously, I worked as a web designer at Thintry, where I contributed to intuitive UI for AI-focused platforms. My expertise includes JavaScript, React, Python, and Git, with a strong foundation in problem-solving and state-level programming experience. I'm continuously expanding my knowledge in data structures, algorithms, and AI to build innovative and impactful solutions.
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,git,github,vercel,js,py,java,cpp,c&perline=8)](https://skillicons.dev)
